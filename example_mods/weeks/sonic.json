@@ -1,0 +1,104 @@
+{
+	"storyName": "tu mama treno",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"hill",
+			"icon-sonic_exe",
+			[
+				86,
+				0,
+				0
+			]
+		],
+		[
+			"melancholyc-tentation",
+			"icon-sonic_exe",
+			[
+				86,
+				0,
+				0
+			]
+		],
+		[
+			"hide-and-seek",
+			"icon-sonic_exe",
+			[
+				146,
+				113,
+				253
+			]
+		],
+                [
+			"no-more-girls",
+			"icon-espantaviejas",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"suspicious-speed",
+			"icon-susnic",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"hellish-suffering",
+			"icon-tails",
+			[
+				146,
+				113,
+				253
+			]
+		],
+                [
+			"liminal escape",
+			"icon-tails",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"disturbance",
+			"icon-pertubado",
+			[
+				146,
+				113,
+				253
+                        ]
+		],
+                [
+	                "Genial beta",
+			"icon-pertubado",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "sonic",
+	"hiddenUntilUnlocked": false
+}

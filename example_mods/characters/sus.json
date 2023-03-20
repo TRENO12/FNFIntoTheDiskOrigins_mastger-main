@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				426,
+				-398
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				508,
+				-311
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				501,
+				-304
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				427,
+				-354
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				475,
+				-361
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				486,
+				-315
+			],
+			"anim": "alt",
+			"fps": 24,
+			"name": "alt",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/susnicSheet",
+	"position": [
+		147,
+		-440
+	],
+	"healthicon": "icon-susnic",
+	"flip_x": false,
+	"healthbar_colors": [
+		135,
+		155,
+		255
+	],
+	"camera_position": [
+		-270,
+		350
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}
