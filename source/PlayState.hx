@@ -848,7 +848,7 @@ class PlayState extends MusicBeatState
 				if(!ClientPrefs.lowQuality) foregroundSprites.add(new BGSprite('tank3', 1300, 1200, 3.5, 2.5, ['fg']));
 			case 'green-hills':
 				var lib = "stages/green-hills/";
-                var sky = new FNFSprite(0, 0, Paths.image(lib + "fondo", "disk"));
+                var sky = new FNFSprite(-10, 0, Paths.image(lib + "fondo", "disk"));
 				sky.scale.set(0.6, 0.6);
 				add(sky);
 
